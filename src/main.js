@@ -1,1 +1,1 @@
-//nuemro uno//git remote add origin https://github.com/Milton-Dis3000/secondcommit.git
+//nuemro uno//
